@@ -86,9 +86,9 @@ Feature engineering was a crucial step to prepare the dataset for modelling:
 ### Example Results
 | Model                  | Accuracy | F1-Score |   AUC     |
 |-------------------------|----------|----------|----------|
-| Adaboost                | 0.78     | 0.76     | 0.82     |
+| Adaboost                | 0.87     | 0.92     | 0.84     |
 | Gradient Boosting       | 0.85     | 0.83     | 0.88     |
-|  XGBoost                | 0.87     | 0.85     | 0.90     |
+|  XGBoost                | 0.8916   | 0.94     | 0.88     |
 
 
 
