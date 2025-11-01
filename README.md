@@ -93,7 +93,7 @@ Feature engineering was a crucial step to prepare the dataset for modelling:
 
 ### Model Evaluation (LightGBM — Best Model)
 
-The **LightGBM classifier** was tuned and evaluated on the test dataset with an optimal decision threshold of **0.85**.  
+The **XGBoost** was tuned and evaluated on the test dataset with an optimal decision threshold of **0.85**.  
 The following summarizes the model’s performance metrics and classification outcomes.
 
 #### Performance Metrics
@@ -103,8 +103,6 @@ The following summarizes the model’s performance metrics and classification ou
 | **Accuracy** | 0.8916 |
 | **F1-Score** | 0.50 |
 | **AUC-ROC** | 0.8815 |
-| **Precision (Positive class)** | 0.73 |
-| **Recall (Positive class)** | 0.38 |
 
 ---
 
